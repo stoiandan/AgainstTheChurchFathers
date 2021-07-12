@@ -8,8 +8,8 @@ Some of my favorites include:
 - St. Gregory of Nyssa
 
 # Against them?
-The idea of this repository is not so much to punch in the face Chruch Fathers, per see, but more a punch in the face against a certain attitude, very much pressent in some Churchers, especially Eastern-Orrhodox and Roman-Catholic, on an almost infailability of these individuals.
-I essence, this rerepistory is a collection of proofs, that like us, and while unlike us, more brilliant and shinning, Church Fathers are not God incarnate, and often err, say stupid things, even dagaming things.
+The idea of this repository is **not** to punch in the face Chruch Fathers, per see, but more a punch in the face against a certain _attitude_, very much pressent in some churchers, especially Eastern-Orrhodox and Roman-Catholic, on an view that Chuech Fathers are almosr infallible individuals.
+I essence, this rerepistory is a collection of proofs, that like us (while unlike us, more brilliant and shinning) Church Fathers are not God incarnate, and often err, say stupid things, even dagaming things. They were individuals with a limited knowledge of both God and science, much was yet to be uncovered in that area, and also under the influence of their own cultural idiosicracies (I know we all are, but we are not all views as almost infallible).
 
 
 
