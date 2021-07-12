@@ -3,7 +3,7 @@ The [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers), a series of 
 Their writing are influential on the way Christianity, Christian dogma and history developed, they often proivde text hermeneutics, discuss doctrines and correct heresies and also provided bodies of Church Law (or not dependieng on the particular individual).
 Some of my favorites include:
 - Augustine of Hippo
-- Tertulian (though not officially reocgnized as a Church Father, his writings as influentatial)
+- Tertulian (though not officially reocgnized as a Church Father, his writings are as influentatial)
 - [Epiphanius, Bishop of Cyprus](https://en.wikipedia.org/wiki/Epiphanius_of_Salamis)
 - St. Gregory of Nyssa
 
