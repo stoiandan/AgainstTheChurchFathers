@@ -25,4 +25,4 @@ Irenaues lived in the second centruy and was a follower of Polycarp, who himself
 We all do wrong and _daily sin_ Romans 3:13, and in political quarrels, Church Fathers have crossed the line at times:
 
 - [John Chrysostom](https://en.wikipedia.org/wiki/John_Chrysostom), Capadocian Father and regardet as a [_Great Father_](https://en.wikipedia.org/wiki/Church_Fathers#Great_Fathers), in the Eastern-Orthodox Church, has written a series of homilies angaist a judaizing faction of the Church of his time. However, in his homilies, John crosses the line, and his sermon would later cause damange and harm (even kill?) people. His cermons would even serve as [Nazi proaganda](https://en.wikipedia.org/wiki/Adversus_Judaeos#Chrysostom's_homilies_and_Nazism) in the 20-th century.
-These sermons are called [Adversus Judaeos (Against the Jews)](https://en.wikipedia.org/wiki/Adversus_Judaeos), and can be found here
+These sermons are called [Adversus Judaeos (Against the Jews)](https://en.wikipedia.org/wiki/Adversus_Judaeos), and can be found [here](https://en.wikisource.org/wiki/Eight_Homilies_Against_the_Jews). St. John delievers not one, not two, but eight
