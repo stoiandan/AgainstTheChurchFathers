@@ -20,4 +20,7 @@ No one is always right, we all makes mistakes, and while this is **not** meant t
 [Some](http://www.biblicalcatholic.com/apologetics/a38.htm) Roman-Catholic apologists are claiming that really doesn't say that. I've read the article and frankly, it just seems to me to twist the words of the text. Thinking to make a video on it.
 
 ## Plain Wicked 
-- John Chisostom, capadocian Father and regarder a Great Father, in the Eastern-Orthodox Church, has written a series of homilies angaist a Judaizing faction in the Church of his time. However, in his homilies, John crosses the line, and his cermons would later cause damange and deaths of individuals and would even serve as Nazi proaganda in the 20-th century. 
+We all do wrong and _daily sin_ Romans 3:13, and in political quarrels, Church Fathers have crossed the line at times:
+
+- [John Chrysostom](https://en.wikipedia.org/wiki/John_Chrysostom), capadocian Father and regarder a Great Father, in the Eastern-Orthodox Church, has written a series of homilies angaist a Judaizing faction in the Church of his time. However, in his homilies, John crosses the line, and his cermons would later cause damange and deaths of individuals and would even serve as [Nazi proaganda](https://en.wikipedia.org/wiki/Adversus_Judaeos#Chrysostom's_homilies_and_Nazism) in the 20-th century.
+These sermons are called [Adversus Judaeos (Against the Jews)](https://en.wikipedia.org/wiki/Adversus_Judaeos), 
