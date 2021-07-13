@@ -32,3 +32,8 @@ These sermons are called [Adversus Judaeos (Against the Jews)](https://en.wikipe
 
 In defence of St. John, Eastern-Orthodox standard apologetical replay is that _St. John was merley using a oratorical techinique_ common to his time called _psogos_, in which it was common to skip all quailties of one's adversary and only talk about his down sides.
 I don't see how this exonerates St. John, after all, _Frank Sintara_ was a _maffia boss_, during a _hard time_, when it was more common to engage in _maffia activity_.
+Even so, the responose is trying to make the criticism look stupid, because it denotes ignorance of Byzantine culture. Well my point is that Byzantine culture is irelevnat in this context, the _deffinition_ of _psogos_ is:
+> (rhetoric) A speech that attempts to insult, degrade, or otherwise attack something​. 
+
+So ok, we didn't knew it existed and we didn't knew it was common. The question still remains, how does that makes things better?
+Again, it's like saying it's _anachronistic_ to say slavery is _evil_, because it was common during a period. It makes no difference, and you'd expect a bit more from one that would eventually be called, and I kid you not, _golden mouthed_.
