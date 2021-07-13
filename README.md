@@ -77,6 +77,7 @@ Certain traditions and roumers started to come out, including in [gnostic litera
 1. She was killed
 2. She died and was burried
 3. She remained alive
+
 Epiphanius is a _sincere man_, addresses these claims and plainly states that:
 > But if some think us mistaken, let them search the Scriptures. They will not find Mary’s death; they will not find whether she died or did not die; they will not find whether she was buried or was not buried … Scripture is absolutely silent [on the end of Mary] …
 
