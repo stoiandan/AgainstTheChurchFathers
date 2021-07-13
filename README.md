@@ -55,4 +55,6 @@ The frist council at Nicea, was convoked by Emperor Constaine. It was custom tha
 So the _council_ took place, icons and graven images were condemned, and a total period of ~100 years followed where _iconoclams (Greek for destroyer of icons)_ was the norm and orthodoxy in the Byzantine Empire (Rome rejected this council and never accepted it as eccumenical, much like the _Oriental_ and _Nestorian Church_ did with the third and fourth councils).
 Another eccumenical council follow in Nicea, the [Second Council of Nicea](https://en.wikipedia.org/wiki/Second_Council_of_Nicaea), where the _first seventh council of Hiera_, was condemned and is today no longer recognized as eccumenical council.
 But this just beggs the question, _what is an ecumenical council after all?_
+
+
 A simmilar incident happened, where again the Eastern-Orthodox Church, reuinited with the Roman-Catholic Church in 1431, at the [Council of Florence](https://en.wikipedia.org/wiki/Council_of_Florence), supposed to be an eccumenical council, only so that the Orthodox may later _deny it_, and simply not follow with the council's conclusion.  
