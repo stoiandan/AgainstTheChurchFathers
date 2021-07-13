@@ -53,6 +53,7 @@ The next eccumenical council, the fourht eccumenical [Council of Chalcedon, in 4
 ### What is an Ecumenical Council after all?
 The frist council at Nicea, was convoked by Emperor Constaine. It was custom that the Emperor be the one to call a counccil to settle relgious problems. Troughout time, there were many _local councils_, convoked by _bishops_, and these greater ones. But during a period of time when the Byzantine Empire was in decline, Emperor Leo III, _called_ for another such _ecumenical council_ at [Hiera, in 754](https://en.wikipedia.org/wiki/Council_of_Hieria). This was supposed to be the_ actual (first) seventh ecumenical council_, where Leo's  convictions, namely that the empire was in decline because people started to make _icons_ - which he saw as graven imagies -, were to be upholed and _icons_, condemned as heretical.
 So the _council_ took place, icons and graven images were condemned, and a total period of ~100 years followed where _iconoclams (Greek for destroyer of icons)_ was the norm and orthodoxy in the Byzantine Empire (Rome rejected this council and never accepted it as eccumenical, much like the _Oriental_ and _Nestorian Church_ did with the third and fourth councils).
+
 Another eccumenical council follow in Nicea, the [Second Council of Nicea](https://en.wikipedia.org/wiki/Second_Council_of_Nicaea), where the _first seventh council of Hiera_, was condemned and is today no longer recognized as eccumenical council.
 But this just beggs the question, _what is an ecumenical council after all?_
 
