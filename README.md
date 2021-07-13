@@ -1,3 +1,12 @@
+# Table of contents
+1. [Introduction](#introduction)
+2. [Against them?](#against-them)
+3. [Plain Wrong](#plain-wrong)
+    1. [John Chrysostom spreads hate towards the Jews](#john-chrysostom-spreads-hate-towards-the-jews)
+4. [Church Fathers and councils contradict each other](#church-fathers-and-councils-contradict-each-other)
+    1. [Were Ecumenical Councils universally accepeted?](#were-ecumenical-councils-universally-accepeted)
+    2. [What is an Ecumenical Council after all?](#what-is-an-ecumenical-council-after-all)
+
 # Introduction
 The [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers), are series of influential Christian thinkers, writers, theologians and philosohpers. They are often unfold into different categories, for example, by the _period_ they lived in, hence the name the _Apostolic Fathers_ (those who lived in the earliest Christian times, near or together with the Apostles), like [Clement of Rome](https://en.wikipedia.org/wiki/Pope_Clement_I), [Papias](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) and [Polycarp](https://en.wikipedia.org/wiki/Polycarp), other categories are based on _origin_ (which influenced their culture, language, philosophy, etc.) like _Greek Fathers_ or _Latin Fathers_.
 Their writing are influential on the way Christianity, Christian dogma and history developed, they often proivde textual hermeneutics, discuss doctrines, correct heresies and at times provided bodies of Church Law.
@@ -13,19 +22,19 @@ In essence, this rerepistory is a collection of _proofs_, that like us (while un
 
 
 
-## Plain Wrong
+# Plain Wrong
 No one is always right, we all makes mistakes, and while this is **not** meant to _throw rocks_, not even to _discredite_ individuals, it is meant to prove they are **wrong at times**:
 
-### Irenaues says Jesus was 40+ years old
+## Irenaues says Jesus was 40+ years old
 [Irenaues (bishop) of Lyion](https://en.wikipedia.org/wiki/Irenaeus), ammong the early Church Fathers (130 – c. 202 AD). He judges based on _John 8:57_ ("“You are not yet fifty years old,” they said to him, “and you have seen Abraham!”" NIV), that, because the Jews are saying, "_not yet fifty years_", as opposed to, _not yet forty years_, Christ must have been 40+ years old  during his ministry, close to 50 years. He makes this point in [Against Heresies (Book III, Chapter 3)](https://www.newadvent.org/fathers/0103303.htm). He essentially does this in order to prove that Christ saved _all people_, by the virtue of him (Jesus) going trough all ages. Irenaus argues, that Jesus was a baby, a boy, a young man ('till his 30s, included) and then also an _old men_, which would mean 40+ years by that standard.
 
 Irenaues lived in the second centruy and was a follower of Polycarp, who himself was, supposedly (knowing from Irenaues, not from Polycarp himself) a follower of the _Apostles John_.
 [Some](http://www.biblicalcatholic.com/apologetics/a38.htm) Roman-Catholic apologists are claiming that he_ doesn't really_ say that. I've read the article and frankly, it just seems to me to twist the words of the original text. Thinking to make a video on it.
 
-## Plain Wicked 
+# Plain Wicked 
 We all do wrong and _daily sin_ Romans 3:13, and in political quarrels, Church Fathers have crossed the line at times:
 
-### John Chrysostom spreads hate towards the Jews
+## John Chrysostom spreads hate towards the Jews
 [John Chrysostom](https://en.wikipedia.org/wiki/John_Chrysostom), Capadocian Father and regardet as a [_Great Father_](https://en.wikipedia.org/wiki/Church_Fathers#Great_Fathers), in the Eastern-Orthodox Church, has written a series of homilies angaist a judaizing faction of the Church of his time. However, in his homilies, John crosses the line, and his sermons would later cause damange and harm (even kill?) people. His sermons would even serve as [Nazi proaganda](https://en.wikipedia.org/wiki/Adversus_Judaeos#Chrysostom's_homilies_and_Nazism) in the 20-th century.
 These sermons are called [Adversus Judaeos (Against the Jews)](https://en.wikipedia.org/wiki/Adversus_Judaeos), and can be found [here](https://en.wikisource.org/wiki/Eight_Homilies_Against_the_Jews). St. John delievers not _one_, not _two_, but _eight_, such homilies, and just to cite something from his first homily:
 >Another prophet hinted at this when he said: "Israel is as obstinate as a stubborn heifer". And still another called the Jews "an untamed calf".
@@ -40,11 +49,11 @@ Even so, the responose is trying to make the criticism look stupid, because it d
 So ok, we didn't knew it existed and we didn't knew it was common. The question still remains, how does that makes things better?
 Again, it's like saying it's _anachronistic_ to say slavery is _evil_, because it was common during a period. It makes no difference, and you'd expect a bit more from one that would eventually be called, and I kid you not, _golden mouthed_.
 
-## Church Fathers and councils contradict each other.
+# Church Fathers and councils contradict each other
 You might be familiar with the idea that there were [seven ecumenical councils](https://en.wikipedia.org/wiki/First_seven_ecumenical_councils). The first council, was invoked by [Emperor Constantine](https://en.wikipedia.org/wiki/Constantine_the_Great), after granditing Christians religious liberty by the [Edict of Milan in 313](https://en.wikipedia.org/wiki/Edict_of_Milan), Constaintine's ambitions were probably to have a unified Christianity in order to have it a state Church. Something that Theodosius managed to do by the [Edict of Thessalonica in 380](https://en.wikipedia.org/wiki/State_church_of_the_Roman_Empire).
 So, in order to have unity, Constatine convoked a council of Bishops at Nicea, in 325 AD, the first ecumenical council, meant to settle the Christological question of _Who was Christ?_.
 
-### Were Ecumenical Councils universally accepeted?
+## Were Ecumenical Councils universally accepeted?
 Troughout time, there were seven such councils and they are called _ecumenical_, because _supposedly_, they where accepted by the [Great Church](https://en.wikipedia.org/wiki/Great_Church), the _whole Church_. So everything was _pink_, until Catholics and Orthodox split off in 1054 at the [Great Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism). Or was it?
 First of all, something that throughout _12 years of religious education in high school was never mentioned_, is that this is _false_.
 The third ecumenical [council, of Ephesus, in 431](https://en.wikipedia.org/wiki/Council_of_Ephesus), saw a Schism in the Church, between Christian churches of Sassanid Persia, which affiliated with Nestorius, and the Roman Church.
