@@ -55,7 +55,7 @@ So, in order to have unity, Constatine convoked a council of Bishops at Nicea, i
 
 ## Were Ecumenical Councils universally accepeted?
 Troughout time, there were seven such councils and they are called _ecumenical_, because _supposedly_, they where accepted by the [Great Church](https://en.wikipedia.org/wiki/Great_Church), the _whole Church_. So everything was _pink_, until Catholics and Orthodox split off in 1054 at the [Great Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism). Or was it?
-First of all, something that throughout _12 years of religious education in high school was never mentioned_, is that this is _false_.
+First of all, something that throughout _12 years of religious education in school was never mentioned to me_, is that this is _false_.
 The third ecumenical [council, of Ephesus, in 431](https://en.wikipedia.org/wiki/Council_of_Ephesus), saw a schism in the Church, between Christian churches of Sassanid Persia, which affiliated with Nestorius, and the Roman Church.
 The next eccumenical council, the fourht eccumenical [Council of Chalcedon, in 451](https://en.wikipedia.org/wiki/Council_of_Chalcedon), just 20 years after, brought yet another schism, this time more major, beteewn what we call today [Oriental Christianity](https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches), or Coptic Orthodox, or Oriental Orthodoxy  - again mostly churches outside the _Roman Empire_, like the [Syriac](https://en.wikipedia.org/wiki/Syriac_Christianity), Ethiophian, Armenian Churches - and the Roman State Church.
 
