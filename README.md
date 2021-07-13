@@ -29,7 +29,7 @@ No one is always right, we all makes mistakes, and while this is **not** meant t
 [Irenaues (bishop) of Lyion](https://en.wikipedia.org/wiki/Irenaeus), ammong the early Church Fathers (130 – c. 202 AD). He judges based on _John 8:57_ ("“You are not yet fifty years old,” they said to him, “and you have seen Abraham!”" NIV), that, because the Jews are saying, "_not yet fifty years_", as opposed to, _not yet forty years_, Christ must have been 40+ years old  during his ministry, close to 50 years. He makes this point in [Against Heresies (Book III, Chapter 3)](https://www.newadvent.org/fathers/0103303.htm). He essentially does this in order to prove that Christ saved _all people_, by the virtue of him (Jesus) going trough all ages. Irenaus argues, that Jesus was a baby, a boy, a young man ('till his 30s, included) and then also an _old men_, which would mean 40+ years by that standard.
 
 Irenaues lived in the second centruy and was a follower of Polycarp, who himself was, supposedly (knowing from Irenaues, not from Polycarp himself) a follower of the _Apostles John_.
-[Some](http://www.biblicalcatholic.com/apologetics/a38.htm) Roman-Catholic apologists are claiming that he_ doesn't really_ say that. I've read the article and frankly, it just seems to me to twist the words of the original text. Thinking to make a video on it.
+[Some](http://www.biblicalcatholic.com/apologetics/a38.htm) Roman-Catholic apologists are claiming that he _doesn't really_ say that. I've read the article and frankly, it just seems to me to twist the words of the original text. Thinking to make a video on it.
 
 # Plain Wicked 
 We all do wrong and _daily sin_ Romans 3:13, and in political quarrels, Church Fathers have crossed the line at times:
