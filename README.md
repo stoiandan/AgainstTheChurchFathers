@@ -6,6 +6,7 @@
 4. [Church Fathers and councils contradict each other](#church-fathers-and-councils-contradict-each-other)
     1. [Were Ecumenical Councils universally accepeted?](#were-ecumenical-councils-universally-accepeted)
     2. [What is an Ecumenical Council after all?](#what-is-an-ecumenical-council-after-all)
+    3. [What happened to St. Mary?](#what-happened-to-st-mary)
 
 # Introduction
 The [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers), are series of influential Christian thinkers, writers, theologians and philosohpers. They are often unfold into different categories, for example, by the _period_ they lived in, hence the name the _Apostolic Fathers_ (those who lived in the earliest Christian times, near or together with the Apostles), like [Clement of Rome](https://en.wikipedia.org/wiki/Pope_Clement_I), [Papias](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) and [Polycarp](https://en.wikipedia.org/wiki/Polycarp), other categories are based on _origin_ (which influenced their culture, language, philosophy, etc.) like _Greek Fathers_ or _Latin Fathers_.
@@ -69,4 +70,15 @@ A simmilar incident happened, where again the Eastern-Orthodox Church, reuinited
 
 But all this just **beggs** the question, _what is an ecumenical council after all?_
 
+## What happened to St. Mary?
+The Christian Gospels do not mention what happened to St. Mary, the mother of Jesus, after the cruxifixion when Jesus entrusts her to St. John, and after she is mentioned a couple more times in the Gospels.
 
+Certain traditions and roumers started to come out, including in [gnostic literature](https://christiantruth.com/articles/articles-roman-catholicism/assumption/). In essence, Epiphanius, c. 310–320 – 403, who was born in Judea, says the he know of three stories that are in circulation as to what happened to her:
+1. She was killed
+2. She died and was burried
+3. She remained alive
+Epiphanius is a _sincere man_, addresses these claims and plainly states that:
+> But if some think us mistaken, let them search the Scriptures. They will not find Mary’s death; they will not find whether she died or did not die; they will not find whether she was buried or was not buried … Scripture is absolutely silent [on the end of Mary] …
+
+But then later on, comes [John of Damascus](https://en.wikipedia.org/wiki/John_of_Damascus), c. 675 or 676, and plainly _ignores_ Epiphanius, bodly claims the [dormition](https://en.wikipedia.org/wiki/Assumption_of_Mary#History), and... that's it folks!
+Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox understanding of _what happened_, simmply [differes](https://en.wikipedia.org/wiki/Assumption_of_Mary#Assumption_versus_Dormition). In my opinion, this just proves how tradition is not _relible_, how there is no _consensus_, since what one person, who came earlier and _lived_ in a better suited place to find out the truth could not, then comes one who is regarded as _authoritative_ and by that virtue he is regarded in _high esteem_.   
