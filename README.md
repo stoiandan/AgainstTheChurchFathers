@@ -79,7 +79,10 @@ Certain traditions and roumers started to come out, including in [gnostic litera
 3. She remained alive
 
 Epiphanius is a _sincere man_, addresses these claims and plainly states that:
+
 > But if some think us mistaken, let them search the Scriptures. They will not find Mary’s death; they will not find whether she died or did not die; they will not find whether she was buried or was not buried … Scripture is absolutely silent [on the end of Mary] …
+>> Epiphanius, Panarion, Haer. 78.10-11, 23. Cited by juniper Carol, O.F.M. ed., Mariology, Vol. II (Milwaukee: Bruce, 1957), pp. 139-40).
 
 But then later on, comes [John of Damascus](https://en.wikipedia.org/wiki/John_of_Damascus), c. 675 or 676, and plainly _ignores_ Epiphanius, bodly claims the [dormition](https://en.wikipedia.org/wiki/Assumption_of_Mary#History), and... that's it folks!
-Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox understanding of _what happened_, simmply [differes](https://en.wikipedia.org/wiki/Assumption_of_Mary#Assumption_versus_Dormition). In my opinion, this just proves how tradition is not _relible_, how there is no _consensus_, since what one person, who came earlier and _lived_ in a better suited place to find out the truth could not, then comes one who is regarded as _authoritative_ and by that virtue he is regarded in _high esteem_.   
+Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox understanding of _what happened_, simmply [differes](https://en.wikipedia.org/wiki/Assumption_of_Mary#Assumption_versus_Dormition). In my opinion, this just proves how tradition is not _relible_, how there is no _consensus_, since what one person, who came earlier and _lived_ in a better suited place to find out the truth could not, then comes one who is regarded as _authoritative_ and by that virtue he is regarded in _high esteem_.
+
