@@ -100,7 +100,7 @@ Theology is composed of ideas, doctrines, philosophy, etc. Ideas are in no way w
 ## John Damascene's rejection of Christian mortalism
 
 ### An introduction to mortalism and the eternal soul
-We must fisrt begin by introducting the concept of [Christian Modrtalism](https://en.wikipedia.org/wiki/Christian_mortalism), in essence, this simply states that the human soul, is **not** imortal. This has it's roots in ancient Judaism, where we see all sorts of proofs for this:
+We must fisrt begin by introducting the concept of [Christian Mortalism](https://en.wikipedia.org/wiki/Christian_mortalism), in essence, this simply states that the human soul, is **not** imortal. This has it's roots in ancient Judaism, where we see all sorts of proofs for this:
 - "_The dead do not praise the Lord, nor do any who go down into silence._" Psalm 115:17;
 - " And the dust returns to the earth as it was, and _the spirit returns to God who gave it_." Ecclesiastes 12:7;
 - " Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: the soul who sins shall die. " Ezekiel 18:4.
