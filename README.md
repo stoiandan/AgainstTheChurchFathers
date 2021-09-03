@@ -7,6 +7,8 @@
     1. [Were Ecumenical Councils universally accepeted?](#were-ecumenical-councils-universally-accepeted)
     2. [What is an Ecumenical Council after all?](#what-is-an-ecumenical-council-after-all)
     3. [What happened to St. Mary?](#what-happened-to-st-mary)
+5. [Theology based on political reasons](#theology-based-on-political-reasons)
+    1. [John Damascene's rejection of Christian mortalism](#John-Damascene-rejection-of-christian-mortalism)
 
 # Introduction
 The [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers), are series of influential Christian thinkers, writers, theologians and philosohpers. They are often unfold into different categories, for example, by the _period_ they lived in, hence the name the _Apostolic Fathers_ (those who lived in the earliest Christian times, near or together with the Apostles), like [Clement of Rome](https://en.wikipedia.org/wiki/Pope_Clement_I), [Papias](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) and [Polycarp](https://en.wikipedia.org/wiki/Polycarp), other categories are based on _origin_ (which influenced their culture, language, philosophy, etc.) like _Greek Fathers_ or _Latin Fathers_.
@@ -91,3 +93,31 @@ But then later on, comes [John of Damascus](https://en.wikipedia.org/wiki/John_o
 
 Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox understanding of _what happened_, simply [differes](https://en.wikipedia.org/wiki/Assumption_of_Mary#Assumption_versus_Dormition). In my opinion, this just proves how tradition is not _relible_, how there is no _consensus_, since what one person, who came earlier and _lived_ in a better suited place said _Scripture is silent on this matter_, then comes one who is regarded as _authoritative_ and by that virtue hes _decrees_ are keept in _high esteem_.
 
+# Theology based on political reasons
+
+Theology is composed of ideas, doctrines, philosophy, etc. Ideas are in no way without consequences, if you believe that the color red at a semaphore means you're free to walk, you're going to have a hard time. This section I want to explore how some ideas where present in the Christian world, even promoted by saints and powerful figures, who one one hand propoents of Orthodoxy tell us we must obey and listen to as if they where Chist himself. On the other hand, Church Fathers themselves ignor another and eve akwardly reject another, in silence, promoting the exact opposite of another, in order to fit their political agenda.
+
+## John Damascene's rejection of Christian mortalism
+
+### An introduction to mortalism and the eternal soul
+We must fisrt begin by introducting the concept of [Christian Modrtalism](https://en.wikipedia.org/wiki/Christian_mortalism), in essence, this simply states that the human soul, is **not** imortal. This has it's roots in ancient Judaism, where we see all sorts of proofs for this:
+- "_The dead do not praise the Lord, nor do any who go down into silence._" Psalm 115:17;
+- " And the dust returns to the earth as it was, and _the spirit returns to God who gave it_." Ecclesiastes 12:7;
+- " Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: the soul who sins shall die. " Ezekiel 18:4.
+This is also visible in the New Testament as well:
+- " Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed," 1 Corinthians 15:51; 
+- " For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." Romans 6:23;
+
+In essence, Judaism took the idea of an _ eternal soul_, from other cultures, Greeks, Babylonians, Zoroastrianism, etc. It was [Alexander the Great (356 BC - 323 BC)](https://en.wikipedia.org/wiki/Alexander_the_Great), who konquered _everything_ around the _mediterranean sea_, bringing Greek, academia and _helenizing_  the suroundings.
+The effects of this where vastly visibile, long after Alexander brought the Greek influence, we see people who where higly influential like Philo of Alexandria(20 BCE- 50 CE), modeling how we understand Scripture based on ideas like [natural law](https://en.wikipedia.org/wiki/Natural_law) and [stoicism](https://en.wikipedia.org/wiki/Stoicism) (see [Dr. Christine Hayes ](https://youtu.be/4zBRLu_cNtc?t=1451)).
+These ideas are visible in books like Daniel and thogether with Jewish apoclypticism,furhter developed in the inter-testamental period, or the second temple period.
+
+### John Damascene's agenda.
+
+Geting back to our story, [Syiriac Christianity](https://en.wikipedia.org/wiki/Syriac_Christianity) had a number of saints advocating for mortalism.
+The earliest unambiguous instance of Christian mortalism is found in Tatian's Address to the Greeks from the second half of the second century. Tatian writes: "The soul is not in itself immortal... If, indeed, it knows not the truth, it dies, and is dissolved with the body, but rises again at last at the end of the world with the body, receiving death by punishment in immortality. But, again, if it acquires the knowledge of God, it dies not, although for a time it be dissolved." (taken from [Wikipedia](https://en.wikipedia.org/wiki/Christian_mortalism#Second_to_eighth_centuries), original [source](http://www.earlychristianwritings.com/text/tatian-address.html))
+
+_Tatian_ had his disciples, and one them that came _close_ to this was [Athenagoras of Athens (133 - 190)](https://en.wikipedia.org/wiki/Athenagoras_of_Athens), a saint in the Eastern Orthodox Church. However, John Damascene's theology of_ icon veneration_, if you think about it, it's stricly related to the doctrine of _prayer to the saints_. Why?
+Well, when you pray to the icon of a saint, what would be the purpose of that "_window to Heaven_", as icons are called, if the saint at the window is not actually there, but he's sleeping in the grave, awaiting resurection, as St. Paul says:
+"And if Christ has not been raised, your faith is futile; you are still in your sins. Then those also who have fallen asleep in Christ are lost" 1 Corinthians 15:17-18
+So _John Damascene_, born c. 675 or 676, doesn't want to listen to "the saints", because mortalism will trash his icon and prayer to the saints theology, but instead, becomes himself a leading figure, vehemently respected in today's Orthodoxy. 
