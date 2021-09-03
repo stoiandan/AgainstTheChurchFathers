@@ -8,7 +8,7 @@
     2. [What is an Ecumenical Council after all?](#what-is-an-ecumenical-council-after-all)
     3. [What happened to St. Mary?](#what-happened-to-st-mary)
 5. [Theology based on political reasons](#theology-based-on-political-reasons)
-    1. [John Damascene's rejection of Christian mortalism](#John-Damascene-rejection-of-christian-mortalism)
+    1. [John Damascene's rejection of Christian mortalism](#john-damascene-rejection-of-christian-mortalism)
 
 # Introduction
 The [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers), are series of influential Christian thinkers, writers, theologians and philosohpers. They are often unfold into different categories, for example, by the _period_ they lived in, hence the name the _Apostolic Fathers_ (those who lived in the earliest Christian times, near or together with the Apostles), like [Clement of Rome](https://en.wikipedia.org/wiki/Pope_Clement_I), [Papias](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) and [Polycarp](https://en.wikipedia.org/wiki/Polycarp), other categories are based on _origin_ (which influenced their culture, language, philosophy, etc.) like _Greek Fathers_ or _Latin Fathers_.
@@ -104,12 +104,14 @@ We must fisrt begin by introducting the concept of [Christian Modrtalism](https:
 - "_The dead do not praise the Lord, nor do any who go down into silence._" Psalm 115:17;
 - " And the dust returns to the earth as it was, and _the spirit returns to God who gave it_." Ecclesiastes 12:7;
 - " Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: the soul who sins shall die. " Ezekiel 18:4.
+- 
 This is also visible in the New Testament as well:
 - " Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed," 1 Corinthians 15:51; 
 - " For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." Romans 6:23;
 
 In essence, Judaism took the idea of an _ eternal soul_, from other cultures, Greeks, Babylonians, Zoroastrianism, etc. It was [Alexander the Great (356 BC - 323 BC)](https://en.wikipedia.org/wiki/Alexander_the_Great), who konquered _everything_ around the _mediterranean sea_, bringing Greek, academia and _helenizing_  the suroundings.
 The effects of this where vastly visibile, long after Alexander brought the Greek influence, we see people who where higly influential like Philo of Alexandria(20 BCE- 50 CE), modeling how we understand Scripture based on ideas like [natural law](https://en.wikipedia.org/wiki/Natural_law) and [stoicism](https://en.wikipedia.org/wiki/Stoicism) (see [Dr. Christine Hayes ](https://youtu.be/4zBRLu_cNtc?t=1451)).
+
 These ideas are visible in books like Daniel and thogether with Jewish apoclypticism,furhter developed in the inter-testamental period, or the second temple period.
 
 ### John Damascene's agenda.
