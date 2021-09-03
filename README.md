@@ -8,7 +8,7 @@
     2. [What is an Ecumenical Council after all?](#what-is-an-ecumenical-council-after-all)
     3. [What happened to St. Mary?](#what-happened-to-st-mary)
 5. [Theology based on political reasons](#theology-based-on-political-reasons)
-    1. [John Damascene's rejection of Christian mortalism](#john-damascene-rejection-of-christian-mortalism)
+    1. [John Damascene's rejection of Christian mortalism](#john-damascenes-rejection-of-christian-mortalism)
 
 # Introduction
 The [Church Fathers](https://en.wikipedia.org/wiki/Church_Fathers), are series of influential Christian thinkers, writers, theologians and philosohpers. They are often unfold into different categories, for example, by the _period_ they lived in, hence the name the _Apostolic Fathers_ (those who lived in the earliest Christian times, near or together with the Apostles), like [Clement of Rome](https://en.wikipedia.org/wiki/Pope_Clement_I), [Papias](https://en.wikipedia.org/wiki/Papias_of_Hierapolis) and [Polycarp](https://en.wikipedia.org/wiki/Polycarp), other categories are based on _origin_ (which influenced their culture, language, philosophy, etc.) like _Greek Fathers_ or _Latin Fathers_.
