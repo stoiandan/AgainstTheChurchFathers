@@ -104,7 +104,7 @@ We must fisrt begin by introducting the concept of [Christian Modrtalism](https:
 - "_The dead do not praise the Lord, nor do any who go down into silence._" Psalm 115:17;
 - " And the dust returns to the earth as it was, and _the spirit returns to God who gave it_." Ecclesiastes 12:7;
 - " Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: the soul who sins shall die. " Ezekiel 18:4.
-- 
+
 This is also visible in the New Testament as well:
 - " Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed," 1 Corinthians 15:51; 
 - " For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." Romans 6:23;
