@@ -102,7 +102,10 @@ Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox unders
 
 In short, the Bishop of Rome claimed the the "tradition" handed down to him by the Apostles Peter and Paul was to celebrate Easter on Sunday, while Polycarp, who claimed the tradition handed down to him by the Apostle John, was to celebrate Easter on the Passover. In the end they "agreed to diasgree" and parted in peace. But this just shows how "reliable" traiditon is.
 
-And it turns out this was quite a huge controversity in the Church at that time, as noted by [Lydia Maria Child](https://en.wikipedia.org/wiki/Lydia_Maria_Child), in her _The Progress of Religious Ideas Through Successive Ages_, p. 24.
+However, and it turns out this was quite a huge controversity in the Church at that time, as noted by [Lydia Maria Child](https://en.wikipedia.org/wiki/Lydia_Maria_Child), in her _The Progress of Religious Ideas Through Successive Ages_, p. 24., as noted by Eusebius, and can be seen today, the "Sunday" side wone, and Quartodecimanism is considered a condemned heresy today, Chapter 23. The Question then agitated concerning the Passover., [Church History (Book V)](https://www.newadvent.org/fathers/250105.htm):
+
+> Synods and assemblies of bishops were held on this account, and all, with one consent, through mutual correspondence drew up an ecclesiastical decree, that the mystery of the resurrection of the Lord should be celebrated on no other but the Lord's day, and that we should observe the close of the paschal fast on this day only
+
 
 # Theology based on political reasons
 
