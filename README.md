@@ -7,6 +7,7 @@
     1. [Were Ecumenical Councils universally accepeted?](#were-ecumenical-councils-universally-accepeted)
     2. [What is an Ecumenical Council after all?](#what-is-an-ecumenical-council-after-all)
     3. [What happened to St. Mary?](#what-happened-to-st-mary)
+    4. [Quartodecimanism](#quartodecimanism)
 5. [Theology based on political reasons](#theology-based-on-political-reasons)
     1. [John Damascene's rejection of Christian mortalism](#john-damascenes-rejection-of-christian-mortalism)
 
@@ -92,6 +93,14 @@ Epiphanius is a _sincere man_, addresses these claims and plainly states that:
 But then later on, comes [John of Damascus](https://en.wikipedia.org/wiki/John_of_Damascus), c. 675 or 676, and plainly _ignores_ Epiphanius, boldly claims the [dormition](https://en.wikipedia.org/wiki/Assumption_of_Mary#History), and... that's it folks!
 
 Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox understanding of _what happened_, simply [differes](https://en.wikipedia.org/wiki/Assumption_of_Mary#Assumption_versus_Dormition). In my opinion, this just proves how tradition is not _relible_, how there is no _consensus_, since what one person, who came earlier and _lived_ in a better suited place said _Scripture is silent on this matter_, then comes one who is regarded as _authoritative_ and by that virtue hes _decrees_ are keept in _high esteem_.
+
+## Quartodecimanism
+
+[Quartodecimanism](https://en.wikipedia.org/wiki/Quartodecimanism), meaning _fourteenth_, in Latin, referes to the early Christian practice of celebrating [Easter](https://en.wikipedia.org/wiki/Easter) on the [Jewish Passover (Pesach)](https://en.wikipedia.org/wiki/Passover). The Bible says that Christ is the Passover lamb ("For even Christ, our Passover, is sacrificed for us." 1 Corinthians 5:7). The Church Father [Polycarp](https://en.wikipedia.org/wiki/Polycarp), who supposedly was discipol of the Apostle John, inisted on keeping this parctice, as recorder by _Irenaeus_, in his _Church History (Book V)_
+
+> Neither could Anicetus persuade Polycarp not to observe what he had always observed with John the disciple of our Lord, and the other apostles with whom he had associated; neither  > could Polycarp persuade Anicetus to observe it, as he said that he ought to follow the customs of the presbyters that had preceded him.
+
+In short, the Bishop of Rome claimed the the "tradition" handed down to him by the Apostles Peter and Paul was to celebrate Easter on Sunday, while Polycarp, who claimed the tradition handed down to him by the Apostle John, was to celebrate Easter on the Passover. In the end they "agreed to diasgree" and parted in peace. But this just shows how "reliable" traiditon is.
 
 # Theology based on political reasons
 
