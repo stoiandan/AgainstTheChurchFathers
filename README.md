@@ -102,6 +102,8 @@ Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox unders
 
 In short, the Bishop of Rome claimed the the "tradition" handed down to him by the Apostles Peter and Paul was to celebrate Easter on Sunday, while Polycarp, who claimed the tradition handed down to him by the Apostle John, was to celebrate Easter on the Passover. In the end they "agreed to diasgree" and parted in peace. But this just shows how "reliable" traiditon is.
 
+And it turns out this was quite a huge controversity in the Church at that time, as noted by [Lydia Maria Child](https://en.wikipedia.org/wiki/Lydia_Maria_Child), in her _The Progress of Religious Ideas Through Successive Ages_, p. 24.
+
 # Theology based on political reasons
 
 Theology is composed of ideas, doctrines, philosophy, etc. Ideas are in no way without consequences, if you believe that the color red at a semaphore means you're free to walk, you're going to have a hard time. This section I want to explore how some ideas where present in the Christian world, even promoted by saints and powerful figures, who one one hand propoents of Orthodoxy tell us we must obey and listen to as if they where Chist himself. On the other hand, Church Fathers themselves ignor another and eve akwardly reject another, in silence, promoting the exact opposite of another, in order to fit their political agenda.
