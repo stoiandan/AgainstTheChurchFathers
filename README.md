@@ -96,7 +96,7 @@ Well not quite, even as of today, the Roman-Catholic and Eastern-Ortohdox unders
 
 ## Quartodecimanism
 
-[Quartodecimanism](https://en.wikipedia.org/wiki/Quartodecimanism), meaning _fourteenth_, in Latin, referes to the early Christian practice of celebrating [Easter](https://en.wikipedia.org/wiki/Easter) on the [Jewish Passover (Pesach)](https://en.wikipedia.org/wiki/Passover). The Bible says that Christ is the Passover lamb ("For even Christ, our Passover, is sacrificed for us." 1 Corinthians 5:7). The Church Father [Polycarp](https://en.wikipedia.org/wiki/Polycarp), who supposedly was discipol of the Apostle John, inisted on keeping this parctice, as recorder by _Eusebius_, in his [_Church History (Book V)_](https://www.newadvent.org/fathers/250107.htm)
+[Quartodecimanism](https://en.wikipedia.org/wiki/Quartodecimanism), meaning _fourteenth_, in Latin, referes to the early Christian practice of celebrating [Easter](https://en.wikipedia.org/wiki/Easter) on the [Jewish Passover (Pesach)](https://en.wikipedia.org/wiki/Passover). The Bible says that Christ is the Passover lamb ("For even Christ, our Passover, is sacrificed for us." 1 Corinthians 5:7). The Church Father [Polycarp](https://en.wikipedia.org/wiki/Polycarp), who supposedly was discipol of the Apostle John, insisted on keeping this parctice, as recorder by _Eusebius_, in his [_Church History (Book V)_](https://www.newadvent.org/fathers/250107.htm)
 
 > Neither could Anicetus persuade Polycarp not to observe what he had always observed with John the disciple of our Lord, and the other apostles with whom he had associated; neither  could Polycarp persuade Anicetus to observe it, as he said that he ought to follow the customs of the presbyters that had preceded him.
 
