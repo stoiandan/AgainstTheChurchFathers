@@ -116,8 +116,10 @@ Well St. Augusitne is explicitly named a _Church Father_  at the the _Second Cou
 
 > We further declare that we hold fast to the decrees of the four Councils, and in every way follow the holy _Fathers_ Athanasius, [...] Cyril, **_Augustine_**, Proclus, Leo and their writings on the true faith
 
-Yet the Orthodox Church higly diregards the teachingings of St. Augustine, either by simply omitting him, throwing him into the non-important, irellevant section of history, if not, again, plainly hating him.
+Yet the Orthodox Church higly diregards the teaching of St. Augustine, either by simply omitting him, throwing him into the non-important, irellevant section of history, if not, again, plainly hating him.
 This is mostly because Augustine taught some things (including the doctrine of double procession of th Holy Spirit), that Orthodox reject, yet the claim to follow the Church Fathers.
+
+
 Most Orthodox argue that not any Church father is infailible, and Augustine, like the rest of us, made some errors. But this is a double standard, as all Church Fathers that are Byzantine are higly regarded and esteemed. I've often saw Augustine's theology misquoted, mirepresented or attributed to other saints, if it was in line with what the Orthodox where thinking, only to dismiss and disregards him.
 To this day, St. Augustine is onl makred as _blessed_ in the Orthodox calendar (the meaning of which speaks a thousand words to Orthodox people) as opposed to _saint_.
 
