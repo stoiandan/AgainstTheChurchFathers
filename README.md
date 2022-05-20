@@ -8,6 +8,7 @@
     2. [What is an Ecumenical Council after all?](#what-is-an-ecumenical-council-after-all)
     3. [What happened to St. Mary?](#what-happened-to-st-mary)
     4. [Quartodecimanism](#quartodecimanism)
+    5. [Augustine a Church Father rejected by Orthodox Christianity](#augustine-a-church-father-rejected-by-orthodox-christianity)
 5. [Theology based on political reasons](#theology-based-on-political-reasons)
     1. [John Damascene's rejection of Christian mortalism](#john-damascenes-rejection-of-christian-mortalism)
 
@@ -107,6 +108,16 @@ However, and it turns out this was quite a huge controversity in the Church at t
 
 > Synods and assemblies of bishops were held on this account, and all, with one consent, through mutual correspondence drew up an ecclesiastical decree, that the mystery of the resurrection of the Lord should be celebrated on no other but the Lord's day, and that we should observe the close of the paschal fast on this day only
 
+# Augustine a Church Father rejected by Orthodox Christianity
+
+St. Augustine of Hippo was probably the most influential Church father of all history, he heavly shaped the Catholic tought and Protestant as well, many modern Orthodox people are teached to sort of hate him, or at least, indirectly to reject his ideas (cf. [Vladimir Losky](https://en.wikipedia.org/wiki/Vladimir_Lossky), [Christos Yanaras](https://en.wikipedia.org/wiki/Christos_Yannaras), famously named Augustine "the fout of all heresies"), yet Orthodox Christianity describes itself as "conciliatory", i.e. following with strich adherence to the 7 ecummenical councils - even known as dissussed in other sections, it is hard to determine what that means - to determine the truth. Well St. Augusitne is explicitly named a _Church Father_  at the the _Second Council of Constantinople (fifth ecumenical council of 553)_ where it is written, Second Council of Constantinople, Session I - Extracts from the Acts
+
+> We further declare that we hold fast to the decrees of the four Councils, and in every way follow the holy _Fathers_ Athanasius, [...] Cyril, **_Augustine_**, Proclus, Leo and their writings on the true faith
+
+Yet the Orthodox Church higly diregards the teachingings of St. Augustine, either by simply omitting him, throwing him into the non-important, irellevant section of history, if not, again, plainly hating him.
+This is mostly because Augustine taught some things (including the doctrine of double procession of th Holy Spirit), that Orthodox reject, yet the claim to follow the Church Fathers.
+Most Orthodox argue that not any Church father is infailible, and Augustine, like the rest of us, made some errors. But this is a double standard, as all Church Fathers that are Byzantine are higly regarded and esteemed. I've often saw Augustine's theology misquoted, mirepresented or attributed to other saints, if it was in line with what the Orthodox where thinking, only to dismiss and disregards him.
+To this day, St. Augustine is onl makred as _blessed_ in the Orthodox calendar (the meaning of which speaks a thousand words to Orthodox people) as opposed to _saint_.
 
 # Theology based on political reasons
 
